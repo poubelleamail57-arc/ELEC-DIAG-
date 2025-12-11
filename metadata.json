@@ -1,0 +1,7 @@
+{
+  "name": "DiagElec AI - NF C 16-600",
+  "description": "Assistant de diagnostic électrique intelligent conforme NF C 16-600. Analyse automatique de photos et assistant technique.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
